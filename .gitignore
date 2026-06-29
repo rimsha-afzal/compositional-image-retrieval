@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Outputs
+outputs/
+outputs.zip
+
+# Data artifacts
+data/
+
