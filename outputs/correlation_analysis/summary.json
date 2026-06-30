@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "source_split_label": "0",
+  "metadata_path": "C:\\Users\\zinab\\Desktop\\UNITN\\Master's\\DL_labs\\CIR - project\\compositional-image-retrieval\\data\\celeba_subset\\image_metadata.csv",
+  "visual_direction_dir": "C:\\Users\\zinab\\Desktop\\UNITN\\Master's\\DL_labs\\CIR - project\\compositional-image-retrieval\\data\\celeba_subset\\embeddings",
+  "visual_direction_name": "visual_directions_reliable",
+  "output_dir": "C:\\Users\\zinab\\Desktop\\UNITN\\Master's\\DL_labs\\CIR - project\\compositional-image-retrieval\\outputs\\correlation_analysis",
+  "num_attributes": 40,
+  "top_label_correlation": {
+    "attribute_a": "Heavy_Makeup",
+    "attribute_b": "Wearing_Lipstick",
+    "value": 0.7945466637611389
+  },
+  "top_direction_similarity": {
+    "attribute_a": "Heavy_Makeup",
+    "attribute_b": "Wearing_Lipstick",
+    "value": 0.9911636114120483
+  }
+}

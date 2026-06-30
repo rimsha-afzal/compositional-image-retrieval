@@ -1,0 +1,2 @@
+method,alpha,beta_pos,beta_neg,output_dir,recall@1,precision@1,recall@5,precision@5,recall@10,precision@10
+visual_direction_retrieval,2.0,1.0,0.5,outputs\visual_direction_run\test_subset_alpha2.00_bpos1.00_bneg0.50,0.05060975609756098,0.05060975609756098,0.14634146341463414,0.03853658536585366,0.21829268292682927,0.03225609756097561

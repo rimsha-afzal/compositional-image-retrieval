@@ -1,0 +1,2 @@
+method,alpha,beta_text,beta_visual_pos,beta_visual_neg,output_dir,recall@1,precision@1,recall@5,precision@5,recall@10,precision@10
+hybrid_text_visual_fusion,1.0,2.0,0.5,0.25,outputs\hybrid_fusion_run\test_subset_alpha1.00_btext2.00_bvpos0.50_bvneg0.25,0.06707317073170732,0.06707317073170732,0.1926829268292683,0.05036585365853659,0.28597560975609754,0.04134146341463414

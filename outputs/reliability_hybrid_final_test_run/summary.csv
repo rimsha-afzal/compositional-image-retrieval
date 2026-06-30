@@ -1,0 +1,2 @@
+experiment_name,alpha,beta_text,beta_pos,beta_neg,recall@1,recall@5,recall@10,precision@10,notes,output_dir,precision@1,precision@5
+reliability_hybrid_text_visual_fusion,1.25,2.5,0.75,0.25,0.07621951219512195,0.19817073170731708,0.2939024390243902,0.04384146341463415,train-split reliability scales each visual attribute direction,outputs\reliability_hybrid_final_test_run\test_final_from_val_alpha1.25_btext2.50_bvpos0.75_bvneg0.25,0.07621951219512195,0.05170731707317073

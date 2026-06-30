@@ -218,7 +218,15 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Outputs
-outputs/
+outputs/**
+!outputs/**/
+!outputs/**/summary.csv
+!outputs/**/results.csv
+!outputs/best_retrieval_methods.md
+!outputs/query_difficulty_analysis/difficulty_bucket_metrics.csv
+!outputs/query_difficulty_analysis/difficulty_bucket_metrics.md
+!outputs/correlation_analysis/*.csv
+!outputs/correlation_analysis/summary.json
 outputs.zip
 
 # Data artifacts

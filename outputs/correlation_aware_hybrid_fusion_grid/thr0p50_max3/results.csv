@@ -1,0 +1,2 @@
+experiment_name,alpha,beta_text,beta_visual_pos,beta_visual_neg,direction_type,reliability_weighted,direction_cosine_threshold,max_confounders_per_attribute,recall@1,recall@5,recall@10,precision@10,notes
+correlation_aware_reliability_hybrid_text_visual_fusion,1.25,2.5,0.75,0.25,decorrelated_train_split_directions,True,0.5,3,0.034724493132766515,0.10987573577501634,0.16454790712884237,0.022492233485938522,train-split reliability plus conservative correlation-aware projection removal
