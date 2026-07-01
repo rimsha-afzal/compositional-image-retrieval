@@ -1,0 +1,23 @@
+{
+  "method": "clip_arithmetic_baseline",
+  "query_json": "c:\\My files\\Unitn 1st year DS\\Deep Learning\\Project\\compositional-image-retrieval\\data\\celeba_subset\\queries\\test_embedding_celeba_evaluation.json",
+  "image_embedding_dir": "c:\\My files\\Unitn 1st year DS\\Deep Learning\\Project\\compositional-image-retrieval\\data\\celeba_subset\\embeddings\\test",
+  "text_embedding_dir": "c:\\My files\\Unitn 1st year DS\\Deep Learning\\Project\\compositional-image-retrieval\\data\\celeba_subset\\embeddings",
+  "alpha": 1.0,
+  "beta": 1.0,
+  "top_k": [
+    1,
+    5,
+    10
+  ],
+  "query_instances": 1640,
+  "gallery_size": 8035,
+  "metrics": {
+    "recall@1": 0.05,
+    "precision@1": 0.05,
+    "recall@5": 0.11219512195121951,
+    "precision@5": 0.03170731707317073,
+    "recall@10": 0.17073170731707318,
+    "precision@10": 0.02609756097560976
+  }
+}
