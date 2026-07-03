@@ -1,0 +1,2 @@
+experiment_name,alpha,beta_text,beta_visual_pos,beta_visual_neg,text_mode,visual_direction_type,reliability_weighted,recall@1,recall@5,recall@10,precision@10,notes
+neutral_subtracted_prompt_ensemble_hybrid_fusion,1.25,2.5,0.75,0.25,prompt_delta,visual_directions_reliable,True,0.07134146341463414,0.20792682926829267,0.3121951219512195,0.04701219512195123,paired neutral-subtracted prompt ensemble replaces raw CLIP text embedding
